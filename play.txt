@@ -1,0 +1,7 @@
+BPM: 120
+
+start at 5 minutes (300 seconds)
+#: 300
+
+Finish
+#: f

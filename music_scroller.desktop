@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Music Scroller
+GenericName=Music & Chord Scroller
+Comment=GTK4 music and chord scroller with audio playback and metronome
+Exec=/home/mike/music_scroller/target/release/music_scroller
+Path=/home/mike/music_scroller
+Icon=applications-multimedia
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=music;chords;scroller;player;
+StartupNotify=true
+StartupWMClass=com.mike.musicscroller

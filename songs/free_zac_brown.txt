@@ -1,0 +1,164 @@
+BPM: 76
+
+Capo: 1st fret
+Free Zac Brown Band
+Standard Tuning
+TIME: 3:49
+TRACK: Free.mp3
+
+
+#: 0:00
+[Intro]
+ 
+E|------------------------------------------------|
+B|------------------------------------------------|
+G|-------0-----0---2-------------0-----0---2------|
+D|--0h2-----2---------0-----0h2-----2---------0---|
+A|--3---------------------3-----------------------|
+E|------------------------------------------------|
+
+E|---------------0---------------0h1p0-----0-------------------------|
+B|-------1----------1-----1---------------------0h1p0---0h1----------|
+G|--0h2-----2p0--------2-------------------------------------2-------|
+D|--3-------------------------3---------3-----3-------3---------3p0--|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+#: 0:11
+ 
+[Intro]
+C    Fmaj7
+ 
+[Verse]
+   C
+So we live out in our old van
+C
+Travel all across this land
+Fmaj7
+Me and you
+
+#: 0:26
+[Verse B]
+C
+We'll end up hand in hand
+C
+Somewhere down on the sand
+     Fmaj7
+Just me and you
+
+#: 0:37
+
+[Chorus]
+         C
+Just as free
+              Fmaj7
+Free as we'll ever be
+         C
+Just as free
+              Fmaj7
+Free as we'll ever be
+ 
+#: 1:00
+ 
+[Verse]
+   C
+We drive until the city lights
+C
+Dissolve into a country sky
+     Fmaj7
+Just me and you
+
+#: 1:24
+ 
+C
+Lay underneath the harvest moon
+C
+Do all the things that lovers do
+     Fmaj7
+Just me and you
+
+#: 2:02
+ 
+[Chorus]
+         C
+Just as free
+              Fmaj7
+Free as we'll ever be
+         C
+Just as free
+              Fmaj7
+Free as we'll ever be
+ 
+And ever be
+ 
+#: 2:10
+
+During the instrumental break there is a bass line walk up.
+(C) (Dm) (Em) (Fmaj7)
+ 
+
+[Bridge]
+C
+No, we don't have a lot of money  x7
+Fmaj7           C
+All we need is love
+ 
+ 
+[Chorus]
+      C             Fmaj7
+We're free as we'll ever be
+         C
+Just as free
+C    Dm Em    Fmaj7
+Free as we'll ever be
+ 
+ 
+[Outro]
+   C
+So we live out in our old van
+C
+Travel all across this land
+Fmaj7
+Me and you
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
