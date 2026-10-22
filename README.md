@@ -1,4 +1,6 @@
 # my_vibecoded_musicscroller
-# my_vibecoded_musicscroller
-# tabscroll
-# tabscroller
+tabscroller
+
+an experiment in vibe coding using rust, made by a person with no coding experience. (my son)
+
+
